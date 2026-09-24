@@ -1,5 +1,4 @@
 import java.util.ArrayList;
-
 public class BST {
     NodoBT Radice;
     ArrayList <Comparable> lista = new ArrayList<Comparable>();

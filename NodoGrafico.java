@@ -1,5 +1,4 @@
 import java.awt.*;
-
 public class NodoGrafico {
     int x;
     int y;

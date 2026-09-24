@@ -1,5 +1,4 @@
 import java.awt.*;
-
 public class Arco {
     int xStart;
     int xEnd;
