@@ -1,5 +1,3 @@
- 
-
 class Riga
 {
     int posizione;

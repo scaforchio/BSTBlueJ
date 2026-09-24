@@ -1,6 +1,3 @@
- 
-
-
 public class NodoBT {
     Comparable info;
 
